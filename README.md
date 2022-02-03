@@ -1,8 +1,5 @@
-# MoreMusic
-MoreMUSIC, The discord music bot
+# Goodbye moremusic...
+Because of the things that happened to Groovy and Rythm, MoreMusic will discontinue it's services.
 
-# THIS IS A OPEN REPOSITORY
-This bot has been created by MikeDeveloperElectroDevelopment2021 and is PUBLIC for everyone
-
-# How to install
-Download the files, open a terminal, run node index.js
+# WHY!?
+Because MoreMusic was using the Youtube API
